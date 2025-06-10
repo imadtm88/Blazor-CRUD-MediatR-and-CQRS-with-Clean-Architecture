@@ -1,0 +1,15 @@
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\bin\Debug\net8.0\DomainLAyer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\bin\Debug\net8.0\DomainLAyer.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\ApplicationLayer\obj\Debug\net8.0\Applicat.033E422A.Up2Date

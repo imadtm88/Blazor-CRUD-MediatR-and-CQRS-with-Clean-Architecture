@@ -1,0 +1,11 @@
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\bin\Debug\net8.0\DomainLAyer.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\bin\Debug\net8.0\DomainLAyer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\bin\Debug\net8.0\DomainLAyer.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\DomainLAyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\DomainLAyer.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\DomainLAyer.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\DomainLAyer.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\DomainLAyer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\refint\DomainLAyer.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\DomainLAyer.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Demo_pat\CleanArchitechture\DomainLAyer\obj\Debug\net8.0\ref\DomainLAyer.dll
